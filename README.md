@@ -6,7 +6,7 @@ I’m currently studying BSc IT (Software Engineering) and Python is the main la
 
 I’m starting with the basics and will add projects as I learn more.
 
-## What I’m Learning
+## What I Will Be Learning
 
 * Java fundamentals
 * Variables and data types
@@ -19,6 +19,7 @@ I’m starting with the basics and will add projects as I learn more.
 * Collections
 * Exception handling
 * File I/O
+* Data Structures and Algorithms
 * And eventually Spring Boot
 
 ## Projects
